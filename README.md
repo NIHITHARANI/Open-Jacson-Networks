@@ -1,4 +1,4 @@
-![243261541-d61c45cf-04e3-4052-aeb4-ebb3cbe9ac2d](https://github.com/NIHITHARANI/Open-Jacson-Networks/assets/149365740/d2c8b25c-f682-4545-8ea4-11e77ac83f15)# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 ##DEVELOPED BY:B.NIHITHA RANI 
 ##REFERENCE NUMBER: 23012494
 ## Aim :
